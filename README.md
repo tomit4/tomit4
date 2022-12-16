@@ -18,6 +18,6 @@ developer.</p>
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tomit4&count_private=true&theme=gruvbox&showicons=true&hide_rank=true&hide_title=true&disable_animations=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tomit4&count_private=true&theme=transparent&showicons=true&hide_rank=true&hide_title=true&disable_animations=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tomit4&langs_count=3&theme=gruvbox&hide_title=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tomit4&langs_count=6&theme=transparent&hide_title=true&layout=compact)]()
