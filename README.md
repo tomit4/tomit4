@@ -1,9 +1,8 @@
 <!-- [alt text]("./assets/leaves_banner.png") -->
 <img src="./assets/leaves_banner.png">
 <h3 align="center">My name is Brian Hayes!</h3>
-<p align="center">I'm a self-taught front-end web
-developer.</p>
-<p align="center">I have a love of JavaScript, Bash, and Linux.</p>
+<p align="center">A Self-Taught Front-End Web Developer</p>
+<p align="center">With A Love Of JavaScript, Bash, And Linux!</p>
 
 ---
 
