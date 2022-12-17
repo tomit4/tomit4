@@ -8,7 +8,7 @@
 
 ##### Current Projects
 
-* [leafbytes](https://leafbytes.com) - website/blog
+* [leafbytes](https://github.com/tomit4/leafbytes) - website/blog
 * [express to do list](https://github.com/tomit4/express_todo) - application with vanilla js and express
 * [vue-do-it](https://github.com/tomit4/vue_do_it) - to do list written in vuejs
 * [bgit](https://github.com/tomit4/bgit) - bash script that automates basic git routine
