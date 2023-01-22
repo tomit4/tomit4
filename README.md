@@ -12,9 +12,9 @@
 * [leafbytes_vue](https://github.com/tomit4/leafbytes_vue) - source code for my website
 * [express to do list](https://github.com/tomit4/express_todo) - application with vanilla js and express
 * [vue-do-it](https://github.com/tomit4/vue_do_it) - to do list written in vuejs
+* [dyetide](https://github.com/tomit4/dyetide) - bash script for converting color codes
 * [bgit](https://github.com/tomit4/bgit) - bash script that automates basic git routine
 * [upnup](https://github.com/tomit4/upnup) - bash script that generates a LICENSE
-* [ltranslate](https://github.com/tomit4/ltranslate) - bash wrapper around libretranslate
 
 ---
 
