@@ -1,5 +1,5 @@
 <!-- [alt text]("./assets/leaves_banner.png") -->
-<img src="./assets/leaves_banner.png">
+<img src="https://raw.githubusercontent.com/tomit4/tomit4/main/assets/leaves_banner.png">
 <h3 align="center">My name is Brian Hayes!</h3>
 <p align="center">A Quirky Self-Taught Front-End Web Developer</p>
 <p align="center">With A Love Of JavaScript, Bash, And Linux!</p>
@@ -8,7 +8,8 @@
 
 ##### Current Projects
 
-* [leafbytes](https://github.com/tomit4/leafbytes) - website/blog
+* [leafbytes](https://leafbytes.com) - website/blog
+* [leafbytes_vue](https://github.com/tomit4/leafbytes_vue) - source code for my website
 * [express to do list](https://github.com/tomit4/express_todo) - application with vanilla js and express
 * [vue-do-it](https://github.com/tomit4/vue_do_it) - to do list written in vuejs
 * [bgit](https://github.com/tomit4/bgit) - bash script that automates basic git routine
