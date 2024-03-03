@@ -8,8 +8,8 @@
 
 ##### Current Projects
 
-- [auther](https://github.com/tomit4/auther) - a fullstack JWT authentication application
-- [city_stats](https://github.com/tomit4/city_stats_v2) - a backend api for querying city/states statistics
+- [Auther](https://github.com/tomit4/Auther) - a fullstack JWT authentication application
+- [CityStats](https://github.com/tomit4/CityStats) - a backend api for querying city/states statistics
 - [brianhayes.dev source](https://github.com/tomit4/brianhayes.dev) - source code for my website/blog
 - [dyetide](https://github.com/tomit4/dyetide) - bash script for converting color codes
 - [bgit](https://github.com/tomit4/bgit) - bash script that automates basic git routine
