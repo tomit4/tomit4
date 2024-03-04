@@ -2,13 +2,14 @@
 <h3 align="center"> My Name's Brian!</h3>
 <h4 align="center">Full Stack Web Developer</h4>
 
-<p>I'm a total nerd when it comes to Coding, Programming, Web Development, and
+I'm a total nerd when it comes to Coding, Programming, Web Development, and
 Linux! 🐧 Whether it's designing the next sleek website using the classic HTML,
 CSS, and JavaScript, or looking for cool new ways to collaborate, I'm always
 staying busy while the passion to better myself burns on into the midnight
-hour! 🔥 </p>
+hour! 🔥
 
----
+Interested in working together? Take a look at my projects below as well as
+my [resume](https://drive.proton.me/urls/23SKA78SAC#n-iKwqJTF3Jb).
 
 ##### Current Projects
 
